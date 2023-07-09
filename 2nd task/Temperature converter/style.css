@@ -1,0 +1,44 @@
+body{
+  margin:0%;
+}
+section{
+  background: linear-gradient(to bottom right, #00C9FF 0%, #92FE9D 100%);
+  align-items: center;
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 10% 25%;
+  padding-bottom:5%;
+  padding-top:2%;
+}
+.a{
+
+  font-size: 3rem;
+  font-weight: bold;
+  color:rgb(6, 3, 5);
+}
+.div1{
+  display:flex;
+  justify-content: center;
+  flex-direction: row;
+  margin-top:5%;
+  
+}
+input{
+  padding: 10px;
+  font-size:1.7rem;
+  border-radius: 5px;
+  border: none;
+}
+.i,.i2{
+  font-size: 1.7rem;
+  background-color:black;
+  color:white;
+  padding:1.2%;
+  margin-left:0.5%;
+  border-radius:5px;
+  border:none;
+}
+.i2{
+  padding:2%;
+}
